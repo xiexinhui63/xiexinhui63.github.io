@@ -261,14 +261,14 @@ if (reversed == null) { reversed = false; }
 p.nominalBounds = new cjs.Rectangle(128.4,78.5,1073.5,816.8);
 // library properties:
 lib.properties = {
-	id: '25602CC474F3844786E8F1E856111055',
+	id: '6B0D4D9ECC15C8418446C1F8C2597BD2',
 	width: 649,
 	height: 649,
 	fps: 10,
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/網動HW_HTML5 Canvas_atlas_1.png?1729042077403", id:"網動HW_HTML5 Canvas_atlas_1"}
+		{src:"images/網動HW_HTML5 Canvas_atlas_1.png?1729065694461", id:"網動HW_HTML5 Canvas_atlas_1"}
 	],
 	preloads: []
 };
@@ -306,7 +306,7 @@ an.bootstrapCallback=function(fnCallback) {
 };
 
 an.compositions = an.compositions || {};
-an.compositions['25602CC474F3844786E8F1E856111055'] = {
+an.compositions['6B0D4D9ECC15C8418446C1F8C2597BD2'] = {
 	getStage: function() { return exportRoot.stage; },
 	getLibrary: function() { return lib; },
 	getSpriteSheet: function() { return ss; },
